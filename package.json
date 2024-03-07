@@ -1,7 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": {"Steven Reyes"
-	},
+	"author": "Steven Reyes",
 	"description": "A project that does something awesome",
 	"keywords": [ "descriptive", "related", "words", "freecodecamp" ],
 	"dependencies": {
